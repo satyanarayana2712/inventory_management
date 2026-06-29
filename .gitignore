@@ -1,0 +1,13 @@
+target/
+build/
+out/
+*.class
+*.log
+*.tmp
+.idea/
+*.iml
+.vscode/
+reports/
+exports/
+autosave/
+application.properties
